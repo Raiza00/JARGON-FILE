@@ -1,0 +1,26 @@
+body
+
+{
+background-color: rgb(185, 214, 226);
+
+}
+
+h1
+ {
+    text-align: center;
+    font-size: 350;
+    text-decoration-line: underline;
+   
+ 
+}
+h2{
+    text-align: left;
+   background-color: rgb(17, 137, 235);
+
+}
+
+span.WM
+
+{
+    margin-left: 50px;
+}
